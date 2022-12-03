@@ -13,18 +13,6 @@ MIT
 @angular/router
 MIT
 
-@angular/service-worker
-MIT
-
-@ionic-native/core
-MIT
-
-@ionic-native/geolocation
-MIT
-
-@ionic-native/native-geocoder
-MIT
-
 @ionic/angular
 MIT
 
@@ -54,12 +42,6 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
-@ngx-translate/core
-MIT
-
-@ngx-translate/http-loader
-MIT
 
 dom7
 MIT
