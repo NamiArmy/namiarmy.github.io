@@ -1,10 +1,10 @@
 {
   "configVersion": 1,
-  "timestamp": 1670147825723,
+  "timestamp": 1670176124931,
   "index": "/index.html",
   "assetGroups": [
     {
-      "name": "WlunaRichGang",
+      "name": "Nami Army",
       "installMode": "lazy",
       "updateMode": "lazy",
       "cacheQueryOptions": {
@@ -47,7 +47,7 @@
         "/6120.8f3d41384869bbea.js",
         "/6560.e2cd977fb5bff12a.js",
         "/657.e4ac080195fac1ee.js",
-        "/7486.646c477cdcea7f0a.js",
+        "/7486.42bf6338779ff35e.js",
         "/7544.c50a0e7b5a489d32.js",
         "/7602.ba96dc1a9d0a616e.js",
         "/8034.f9d1f615c5027223.js",
@@ -66,12 +66,12 @@
         "/9958.b420a5919617420c.js",
         "/common.edb3f6d6f4961217.js",
         "/index.html",
-        "/main.0899269ea45134c1.js",
+        "/main.3c1d4f0fb0f14c1d.js",
         "/manifest.webmanifest",
         "/polyfills-core-js.b3eb16f0f64e9b8c.js",
         "/polyfills-dom.3a5e3168052f1fc5.js",
         "/polyfills.8a98a597f426b6b1.js",
-        "/runtime.3cc7de143b5576a9.js",
+        "/runtime.d3eb1041d00b550b.js",
         "/styles.60088e035d4a722a.css"
       ],
       "patterns": []
@@ -101,12 +101,7 @@
         "/assets/icons/icon-96x96.png",
         "/assets/imgs/1.png",
         "/assets/imgs/32.png",
-        "/assets/imgs/arrow-cursor-false.svg",
-        "/assets/imgs/arrow-cursor-true.svg",
-        "/assets/imgs/arrow-false.svg",
-        "/assets/imgs/arrow-true.svg",
         "/assets/imgs/opensea.svg",
-        "/assets/imgs/placeholder.png",
         "/assets/imgs/preview.png"
       ],
       "patterns": []
@@ -114,9 +109,9 @@
   ],
   "dataGroups": [
     {
-      "name": "WlunaRIchGang",
+      "name": "Nami Army",
       "patterns": [
-        "https:\\/\\/wlunarichgang\\.com\\/[^/]*"
+        "https:\\/\\/namiarmy\\.com\\/[^/]*"
       ],
       "strategy": "freshness",
       "maxSize": 20,
@@ -165,7 +160,7 @@
     "/6120.8f3d41384869bbea.js": "a339df554a66b81c389e8187eeada4a915ece600",
     "/6560.e2cd977fb5bff12a.js": "65d1de911c940455c006da24a557009cc8299ad4",
     "/657.e4ac080195fac1ee.js": "0665726ee5abf99cdf12caf20a27850e4a49b582",
-    "/7486.646c477cdcea7f0a.js": "20fa7fbfe1af0aa1bd0ea528e526f2862b1c2d69",
+    "/7486.42bf6338779ff35e.js": "11ef5d4b9fdb9c5792ec6008252b2e27d6ea7143",
     "/7544.c50a0e7b5a489d32.js": "9ea36eed39ecdef2c08207ce79bba1040d0a0932",
     "/7602.ba96dc1a9d0a616e.js": "d82c7b3a28b2d53aaef48c57324cc68102d1daed",
     "/8034.f9d1f615c5027223.js": "1f23c088813eedcd0fe96ae20ffe20132089b97b",
@@ -199,21 +194,16 @@
     "/assets/icons/icon-96x96.png": "b1de5983bd568ff8455fb2ea0f5e8041655ab62b",
     "/assets/imgs/1.png": "122f105d25d5dc811c6fbe246b385e163aaab00c",
     "/assets/imgs/32.png": "f99ba6631a9ecc6f230876d77046a0decd1b73b9",
-    "/assets/imgs/arrow-cursor-false.svg": "594917c4309e8a8c500b189225dd4ac93bbd9a68",
-    "/assets/imgs/arrow-cursor-true.svg": "166f52505b77b1d8eba3fe556f361f85e906931e",
-    "/assets/imgs/arrow-false.svg": "2dc8e751c83511f61e3e4ade556c231b360df7bd",
-    "/assets/imgs/arrow-true.svg": "6b739a285c54d5cff21fcc0d2a08da1b1ddfa3c0",
     "/assets/imgs/opensea.svg": "34b0adc28cd4138f17a6b7391b7e2492443c680d",
-    "/assets/imgs/placeholder.png": "8576e1bc2bd549e9ef4339888f869abab71614c8",
     "/assets/imgs/preview.png": "bbb6a2d46c71ef63703d124f5d0d7e7cf704698e",
     "/common.edb3f6d6f4961217.js": "2994581dcdbf9e63ff1b80fcb59c9de9cde97dd4",
-    "/index.html": "42fe012e0c96425d9aafe9b95bf0d63ccf00658f",
-    "/main.0899269ea45134c1.js": "8cbd83a5f88561ed39dfc6e0b45c21e2604fe0f0",
-    "/manifest.webmanifest": "c2bf295e289a4c570d1aa8f19ae60453b2e766cb",
+    "/index.html": "5a6c557ab5967c4a7ed479f61a89f364303355ea",
+    "/main.3c1d4f0fb0f14c1d.js": "13f0ff6f7df8b0811a1d46442c62778e09f242fd",
+    "/manifest.webmanifest": "f2e6858a6662ef89652e3e309853b33010811484",
     "/polyfills-core-js.b3eb16f0f64e9b8c.js": "74f73ddfbee814abfb2702e1dd9ca4c9ddb994c5",
     "/polyfills-dom.3a5e3168052f1fc5.js": "50f6ff473a0568bffb8a9d412d7efaced2d36137",
     "/polyfills.8a98a597f426b6b1.js": "bc9d31c2a832edbdb844834ad938b1cf04f94340",
-    "/runtime.3cc7de143b5576a9.js": "8778d179d738e870eb6567c70aff5afdf7fd94b1",
+    "/runtime.d3eb1041d00b550b.js": "f60e50ae9d16b05beb0fd93a6c4448aa3832426c",
     "/styles.60088e035d4a722a.css": "38f5c7915bedca92b385a0f4416c4843fc303e60"
   },
   "navigationUrls": [
