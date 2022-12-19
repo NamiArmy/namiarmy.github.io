@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1670176124931,
+  "timestamp": 1671454809158,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -47,7 +47,7 @@
         "/6120.8f3d41384869bbea.js",
         "/6560.e2cd977fb5bff12a.js",
         "/657.e4ac080195fac1ee.js",
-        "/7486.42bf6338779ff35e.js",
+        "/7486.1a14fc11655de3de.js",
         "/7544.c50a0e7b5a489d32.js",
         "/7602.ba96dc1a9d0a616e.js",
         "/8034.f9d1f615c5027223.js",
@@ -66,13 +66,13 @@
         "/9958.b420a5919617420c.js",
         "/common.edb3f6d6f4961217.js",
         "/index.html",
-        "/main.3c1d4f0fb0f14c1d.js",
+        "/main.4f77bff33b7489bd.js",
         "/manifest.webmanifest",
         "/polyfills-core-js.b3eb16f0f64e9b8c.js",
         "/polyfills-dom.3a5e3168052f1fc5.js",
         "/polyfills.8a98a597f426b6b1.js",
-        "/runtime.d3eb1041d00b550b.js",
-        "/styles.60088e035d4a722a.css"
+        "/runtime.b4524980cc34b759.js",
+        "/styles.56612928c10f7e85.css"
       ],
       "patterns": []
     },
@@ -101,8 +101,17 @@
         "/assets/icons/icon-96x96.png",
         "/assets/imgs/1.png",
         "/assets/imgs/32.png",
+        "/assets/imgs/37.png",
+        "/assets/imgs/kanagawa.png",
+        "/assets/imgs/logo-medium.svg",
+        "/assets/imgs/logo.gif",
+        "/assets/imgs/nft.svg",
         "/assets/imgs/opensea.svg",
-        "/assets/imgs/preview.png"
+        "/assets/imgs/polygon-icon.svg",
+        "/assets/imgs/polygon.svg",
+        "/assets/imgs/preview.png",
+        "/assets/imgs/telegram.svg",
+        "/assets/imgs/user.png"
       ],
       "patterns": []
     }
@@ -160,7 +169,7 @@
     "/6120.8f3d41384869bbea.js": "a339df554a66b81c389e8187eeada4a915ece600",
     "/6560.e2cd977fb5bff12a.js": "65d1de911c940455c006da24a557009cc8299ad4",
     "/657.e4ac080195fac1ee.js": "0665726ee5abf99cdf12caf20a27850e4a49b582",
-    "/7486.42bf6338779ff35e.js": "11ef5d4b9fdb9c5792ec6008252b2e27d6ea7143",
+    "/7486.1a14fc11655de3de.js": "51d7824db7279860603fbfae1fa4b3526e456fba",
     "/7544.c50a0e7b5a489d32.js": "9ea36eed39ecdef2c08207ce79bba1040d0a0932",
     "/7602.ba96dc1a9d0a616e.js": "d82c7b3a28b2d53aaef48c57324cc68102d1daed",
     "/8034.f9d1f615c5027223.js": "1f23c088813eedcd0fe96ae20ffe20132089b97b",
@@ -194,17 +203,26 @@
     "/assets/icons/icon-96x96.png": "b1de5983bd568ff8455fb2ea0f5e8041655ab62b",
     "/assets/imgs/1.png": "122f105d25d5dc811c6fbe246b385e163aaab00c",
     "/assets/imgs/32.png": "f99ba6631a9ecc6f230876d77046a0decd1b73b9",
+    "/assets/imgs/37.png": "77081335176bc0ec275749e3356c35921be91cf1",
+    "/assets/imgs/kanagawa.png": "340ecf88c9f6bebd0afa59614fc6017872ebaee6",
+    "/assets/imgs/logo-medium.svg": "27f62664527da940372f998ec93a1290e9ab140b",
+    "/assets/imgs/logo.gif": "c37f4674ea539dcc0510c558d9f69bf3e57d4093",
+    "/assets/imgs/nft.svg": "61202c180a1c8c14950d3398ce24396ea0ed4d05",
     "/assets/imgs/opensea.svg": "34b0adc28cd4138f17a6b7391b7e2492443c680d",
+    "/assets/imgs/polygon-icon.svg": "676e8ceeba38759636269f9b60a4f5295df6fef2",
+    "/assets/imgs/polygon.svg": "e6b77a23a73302adf641fd71c555cfc30d8ccb30",
     "/assets/imgs/preview.png": "bbb6a2d46c71ef63703d124f5d0d7e7cf704698e",
+    "/assets/imgs/telegram.svg": "e3e15265b42011f5db6ca92a1c602de12a7019a9",
+    "/assets/imgs/user.png": "9fbe7ec7771fd77f5a3f8312ede5b5d2b5bdb54a",
     "/common.edb3f6d6f4961217.js": "2994581dcdbf9e63ff1b80fcb59c9de9cde97dd4",
-    "/index.html": "5a6c557ab5967c4a7ed479f61a89f364303355ea",
-    "/main.3c1d4f0fb0f14c1d.js": "13f0ff6f7df8b0811a1d46442c62778e09f242fd",
+    "/index.html": "fa3da6834edf772cdd5f577027cb61a8fdec099f",
+    "/main.4f77bff33b7489bd.js": "a09242e0a966a4380cd7b739f2237c49d4e142f4",
     "/manifest.webmanifest": "f2e6858a6662ef89652e3e309853b33010811484",
     "/polyfills-core-js.b3eb16f0f64e9b8c.js": "74f73ddfbee814abfb2702e1dd9ca4c9ddb994c5",
     "/polyfills-dom.3a5e3168052f1fc5.js": "50f6ff473a0568bffb8a9d412d7efaced2d36137",
     "/polyfills.8a98a597f426b6b1.js": "bc9d31c2a832edbdb844834ad938b1cf04f94340",
-    "/runtime.d3eb1041d00b550b.js": "f60e50ae9d16b05beb0fd93a6c4448aa3832426c",
-    "/styles.60088e035d4a722a.css": "38f5c7915bedca92b385a0f4416c4843fc303e60"
+    "/runtime.b4524980cc34b759.js": "0605458f5adc597d0d32bce15de27cddf912fa35",
+    "/styles.56612928c10f7e85.css": "a8e48e3ea77ee955565929754474c1af06d4a612"
   },
   "navigationUrls": [
     {
