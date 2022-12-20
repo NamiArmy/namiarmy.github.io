@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1671537276693,
+  "timestamp": 1671543701676,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -66,7 +66,7 @@
         "/9958.b420a5919617420c.js",
         "/common.edb3f6d6f4961217.js",
         "/index.html",
-        "/main.aae95580d86bdf51.js",
+        "/main.f888624c0237755e.js",
         "/manifest.webmanifest",
         "/polyfills-core-js.b3eb16f0f64e9b8c.js",
         "/polyfills-dom.3a5e3168052f1fc5.js",
@@ -215,8 +215,8 @@
     "/assets/imgs/telegram.svg": "e3e15265b42011f5db6ca92a1c602de12a7019a9",
     "/assets/imgs/user.png": "9fbe7ec7771fd77f5a3f8312ede5b5d2b5bdb54a",
     "/common.edb3f6d6f4961217.js": "2994581dcdbf9e63ff1b80fcb59c9de9cde97dd4",
-    "/index.html": "2afb5489d4b26f794761c3b7e2475367359aa0cf",
-    "/main.aae95580d86bdf51.js": "e4abb59264c38a4218230c395f6551cc3f14d3a9",
+    "/index.html": "cbc79175d7139cc7cd064ae84196acfbe9bc0393",
+    "/main.f888624c0237755e.js": "29e00e2e09adb9af43ce6e7eaa8c6c103006153a",
     "/manifest.webmanifest": "f2e6858a6662ef89652e3e309853b33010811484",
     "/polyfills-core-js.b3eb16f0f64e9b8c.js": "74f73ddfbee814abfb2702e1dd9ca4c9ddb994c5",
     "/polyfills-dom.3a5e3168052f1fc5.js": "50f6ff473a0568bffb8a9d412d7efaced2d36137",
